@@ -1,5 +1,5 @@
 # Image-Processing-of-mapping-a-pattern-onto-curve
-We use OpenCV and NumPy to load the flag and pattern images. 
+I use OpenCV and NumPy to load the flag and pattern images. 
 # pattern_flag_mapper/README.md
 
 ## 🎓 Key Features
